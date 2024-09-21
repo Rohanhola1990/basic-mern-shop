@@ -1,8 +1,4 @@
-<h1 align="center">MERN Crash Course 🚀</h1>
-
-![Demo App](/frontend/public/screenshot-for-readme.png)
-
-[Video Tutorial on Youtube](https://youtu.be/Dukz-3mS3Us)
+<h1 align="center">MERN First 🚀</h1>
 
 About This Course:
 
@@ -11,8 +7,6 @@ About This Course:
 -   📱 Responsive UI With React.js and ChakraUI
 -   🐞 Error Handling
 -   🌐 Deployment
--   🚀 And Many More Cool Features
--   ✅ This is a lot of work. Support my work by subscribing to the [Channel](https://www.youtube.com/@asaprogrammer_)
 
 ### Setup .env file
 
@@ -32,5 +26,3 @@ npm run build
 ```shell
 npm run start
 ```
-
-### I'll see you in the next one! 🚀
